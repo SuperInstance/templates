@@ -1,11 +1,18 @@
 # templates
 
-Template files for the SuperInstance ecosystem.
+**Shared templates for the SuperInstance ecosystem** — repo templates, document templates, and configuration scaffolds used across the fleet.
 
-Part of the [SuperInstance](https://github.com/SuperInstance) ecosystem.
+## What's Here
 
-## Related
+- Repository templates (Python, TypeScript, Rust)
+- Document templates (CHARTER.md, README.md, LICENSE)
+- Configuration scaffolds (pyproject.toml, package.json, Cargo.toml)
+- Fleet agent templates
 
-- [forgemaster](https://github.com/SuperInstance/forgemaster)
-- [cocapn-plato](https://github.com/SuperInstance/cocapn-plato)
-- [plato-core](https://github.com/SuperInstance/plato-core)
+## Usage
+
+Use as a GitHub template repository or copy individual files as needed.
+
+## License
+
+MIT
